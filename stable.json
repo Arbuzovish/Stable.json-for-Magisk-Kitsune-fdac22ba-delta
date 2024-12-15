@@ -1,0 +1,12 @@
+{
+  "magisk": {
+    "version": "fdac22ba-delta",
+    "versionCode": "25200",
+    "link": "https://github.com/magiskmodule/magisk-delta/raw/refs/heads/main/Magisk-fdac22ba-delta(25210).apk",
+    "note": "https://github.com/magiskmodule/magisk-delta/blob/main/README.md"
+  },
+  "stub": {
+    "versionCode": "33",
+    "link": "https://github.com/magiskmodule/magisk-delta/raw/refs/heads/main/Magisk-fdac22ba-delta(25210).apk"
+  }
+}
